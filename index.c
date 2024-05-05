@@ -14,8 +14,8 @@ int main()
 
     int subtraction = b - a;
     printf("subtraction = %d",subtraction);
-    printf(" gfsjsjhd");
-    printf("tusher vai");
+    printf("tusher vai"); 
+    print(" i have learned git and github from hablu programmer");
 
     return 0;
 
