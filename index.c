@@ -17,6 +17,8 @@ int main()
     printf("tusher vai"); 
     print(" i have learned git and github from hablu programmer");
     printf("hello world");
+    printf("i am very determined to learned new thing");
+
 
     return 0;
 
