@@ -14,6 +14,7 @@ int main()
 
     int subtraction = b - a;
     printf("subtraction = %d",subtraction);
+    printf(" gfsjsjhd");
 
     return 0;
 
