@@ -15,6 +15,7 @@ int main()
     int subtraction = b - a;
     printf("subtraction = %d",subtraction);
     printf(" gfsjsjhd");
+    printf("tusher vai");
 
     return 0;
 
