@@ -12,6 +12,9 @@ int main()
     int addition = a + b;
     printf("result = %d",addition);
 
+    int subtraction = b - a;
+    printf("subtraction = %d",subtraction);
+
     return 0;
 
 }
