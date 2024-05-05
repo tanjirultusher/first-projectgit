@@ -16,6 +16,7 @@ int main()
     printf("subtraction = %d",subtraction);
     printf("tusher vai"); 
     print(" i have learned git and github from hablu programmer");
+    printf("hello world");
 
     return 0;
 
